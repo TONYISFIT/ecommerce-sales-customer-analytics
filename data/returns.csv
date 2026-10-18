@@ -1,0 +1,401 @@
+order_id,product_id,return_reason
+O001458,P0004,Not as described
+O002813,P0029,Damaged in transit
+O001245,P0002,Not as described
+O002103,P0031,Changed mind
+O002394,P0012,Defective item
+O003555,P0005,Damaged in transit
+O003774,P0083,Changed mind
+O001990,P0026,Not as described
+O002635,P0057,Wrong size
+O004084,P0029,Changed mind
+O001430,P0086,Wrong size
+O003091,P0076,Wrong size
+O000485,P0027,Changed mind
+O001956,P0056,Not as described
+O003197,P0030,Changed mind
+O004547,P0022,Not as described
+O003870,P0038,Defective item
+O003461,P0025,Damaged in transit
+O002433,P0008,Changed mind
+O000199,P0078,Changed mind
+O003628,P0086,Wrong size
+O004706,P0047,Late delivery
+O000178,P0063,Changed mind
+O002505,P0025,Defective item
+O004541,P0001,Defective item
+O004890,P0058,Damaged in transit
+O003186,P0067,Defective item
+O004398,P0066,Not as described
+O000456,P0052,Late delivery
+O000470,P0071,Wrong size
+O003466,P0061,Changed mind
+O003703,P0055,Wrong size
+O001788,P0025,Wrong size
+O004438,P0011,Wrong size
+O002137,P0065,Wrong size
+O001940,P0065,Not as described
+O000349,P0010,Damaged in transit
+O000426,P0062,Not as described
+O001078,P0018,Changed mind
+O003391,P0039,Changed mind
+O001805,P0011,Not as described
+O003549,P0045,Changed mind
+O004231,P0002,Wrong size
+O001768,P0005,Not as described
+O001177,P0054,Damaged in transit
+O001921,P0044,Wrong size
+O004941,P0067,Changed mind
+O001593,P0072,Changed mind
+O003059,P0023,Wrong size
+O004268,P0026,Defective item
+O001423,P0021,Wrong size
+O002831,P0056,Wrong size
+O002735,P0050,Damaged in transit
+O002977,P0057,Changed mind
+O000366,P0014,Not as described
+O001997,P0012,Changed mind
+O002161,P0050,Damaged in transit
+O003779,P0055,Changed mind
+O002780,P0036,Damaged in transit
+O003181,P0040,Changed mind
+O000810,P0050,Changed mind
+O000831,P0030,Wrong size
+O003778,P0045,Defective item
+O003661,P0074,Wrong size
+O000535,P0073,Changed mind
+O002839,P0060,Defective item
+O000471,P0068,Wrong size
+O003680,P0071,Changed mind
+O001168,P0071,Not as described
+O003406,P0081,Defective item
+O003052,P0002,Damaged in transit
+O004527,P0076,Wrong size
+O001527,P0025,Changed mind
+O002057,P0014,Not as described
+O003086,P0045,Late delivery
+O003215,P0077,Wrong size
+O002005,P0043,Not as described
+O004137,P0068,Wrong size
+O002904,P0036,Damaged in transit
+O003040,P0055,Damaged in transit
+O003621,P0004,Late delivery
+O002028,P0024,Late delivery
+O002624,P0061,Late delivery
+O000873,P0081,Damaged in transit
+O003208,P0072,Not as described
+O001620,P0080,Changed mind
+O001670,P0053,Late delivery
+O004509,P0046,Damaged in transit
+O004454,P0060,Late delivery
+O004495,P0055,Changed mind
+O000710,P0038,Wrong size
+O004500,P0082,Defective item
+O003612,P0037,Wrong size
+O003632,P0052,Damaged in transit
+O000729,P0043,Damaged in transit
+O002223,P0049,Late delivery
+O002892,P0002,Defective item
+O003451,P0032,Damaged in transit
+O002300,P0062,Damaged in transit
+O001986,P0062,Damaged in transit
+O000842,P0016,Not as described
+O001481,P0065,Damaged in transit
+O002363,P0079,Wrong size
+O001927,P0051,Late delivery
+O004406,P0086,Changed mind
+O004445,P0009,Not as described
+O002465,P0071,Not as described
+O002421,P0024,Wrong size
+O004659,P0018,Not as described
+O004871,P0059,Wrong size
+O004195,P0077,Changed mind
+O003162,P0027,Wrong size
+O004473,P0013,Wrong size
+O000227,P0070,Wrong size
+O003189,P0029,Not as described
+O004222,P0052,Wrong size
+O000428,P0066,Not as described
+O003308,P0010,Defective item
+O003063,P0017,Damaged in transit
+O004508,P0059,Wrong size
+O000390,P0073,Damaged in transit
+O002153,P0052,Not as described
+O004428,P0058,Defective item
+O004856,P0050,Late delivery
+O002614,P0056,Not as described
+O002383,P0074,Changed mind
+O001459,P0062,Damaged in transit
+O000207,P0026,Wrong size
+O000156,P0076,Damaged in transit
+O000501,P0024,Defective item
+O003376,P0055,Wrong size
+O001356,P0060,Changed mind
+O000720,P0026,Late delivery
+O001814,P0020,Late delivery
+O000726,P0024,Changed mind
+O001041,P0005,Wrong size
+O003268,P0033,Changed mind
+O001193,P0079,Changed mind
+O002460,P0060,Late delivery
+O004129,P0074,Damaged in transit
+O001224,P0066,Wrong size
+O000754,P0011,Late delivery
+O004482,P0080,Changed mind
+O001273,P0068,Wrong size
+O004039,P0057,Damaged in transit
+O004393,P0082,Damaged in transit
+O003887,P0068,Changed mind
+O002506,P0023,Not as described
+O002684,P0009,Changed mind
+O003103,P0014,Changed mind
+O000882,P0043,Defective item
+O001789,P0052,Changed mind
+O000367,P0019,Changed mind
+O002578,P0069,Not as described
+O002566,P0054,Damaged in transit
+O002411,P0079,Damaged in transit
+O004539,P0068,Changed mind
+O004395,P0033,Changed mind
+O001113,P0077,Late delivery
+O002298,P0056,Wrong size
+O004844,P0077,Changed mind
+O003473,P0047,Not as described
+O003253,P0016,Late delivery
+O002010,P0056,Not as described
+O004460,P0004,Changed mind
+O003731,P0030,Late delivery
+O002487,P0014,Wrong size
+O002990,P0005,Wrong size
+O002249,P0053,Damaged in transit
+O004934,P0034,Changed mind
+O004571,P0011,Changed mind
+O002815,P0064,Defective item
+O002147,P0086,Changed mind
+O001076,P0019,Not as described
+O001863,P0036,Not as described
+O001496,P0044,Wrong size
+O003037,P0072,Defective item
+O002145,P0074,Late delivery
+O001068,P0061,Wrong size
+O003522,P0034,Late delivery
+O000939,P0001,Wrong size
+O001060,P0047,Late delivery
+O000182,P0043,Wrong size
+O001286,P0006,Changed mind
+O004734,P0083,Defective item
+O000363,P0032,Not as described
+O001915,P0015,Defective item
+O000516,P0055,Wrong size
+O000037,P0033,Damaged in transit
+O002909,P0006,Late delivery
+O002032,P0053,Defective item
+O004007,P0036,Wrong size
+O002830,P0040,Changed mind
+O000306,P0067,Defective item
+O003170,P0084,Not as described
+O001110,P0040,Late delivery
+O002633,P0010,Defective item
+O002403,P0063,Not as described
+O001080,P0049,Changed mind
+O000432,P0083,Late delivery
+O000742,P0073,Wrong size
+O001935,P0056,Late delivery
+O003592,P0072,Defective item
+O003195,P0057,Late delivery
+O002915,P0028,Changed mind
+O000337,P0057,Wrong size
+O004372,P0079,Not as described
+O002866,P0041,Late delivery
+O003131,P0047,Late delivery
+O001596,P0069,Not as described
+O003045,P0060,Wrong size
+O001181,P0013,Not as described
+O002619,P0077,Defective item
+O000252,P0055,Changed mind
+O000389,P0036,Late delivery
+O004031,P0013,Defective item
+O001643,P0012,Damaged in transit
+O001104,P0040,Damaged in transit
+O000813,P0077,Not as described
+O004021,P0037,Wrong size
+O002415,P0046,Not as described
+O004912,P0043,Defective item
+O004368,P0009,Damaged in transit
+O001353,P0037,Damaged in transit
+O001252,P0071,Changed mind
+O000416,P0040,Not as described
+O002621,P0066,Damaged in transit
+O000016,P0076,Defective item
+O002940,P0062,Not as described
+O002438,P0009,Late delivery
+O000302,P0035,Not as described
+O002778,P0028,Wrong size
+O003988,P0086,Damaged in transit
+O002723,P0064,Defective item
+O004408,P0013,Changed mind
+O000789,P0054,Late delivery
+O002367,P0072,Changed mind
+O003794,P0050,Changed mind
+O004847,P0015,Changed mind
+O001753,P0070,Not as described
+O001894,P0001,Wrong size
+O002459,P0046,Changed mind
+O000879,P0077,Changed mind
+O001509,P0028,Changed mind
+O004595,P0005,Defective item
+O001723,P0038,Changed mind
+O004080,P0074,Changed mind
+O001831,P0014,Changed mind
+O000509,P0028,Wrong size
+O000718,P0001,Wrong size
+O000212,P0024,Changed mind
+O000250,P0025,Damaged in transit
+O001182,P0048,Defective item
+O000248,P0029,Damaged in transit
+O004991,P0041,Wrong size
+O003996,P0012,Changed mind
+O002627,P0027,Defective item
+O003422,P0076,Defective item
+O002817,P0030,Wrong size
+O000254,P0075,Wrong size
+O002071,P0045,Damaged in transit
+O000413,P0017,Late delivery
+O002871,P0022,Changed mind
+O000987,P0082,Not as described
+O001687,P0046,Late delivery
+O001295,P0027,Changed mind
+O000674,P0079,Defective item
+O002546,P0071,Damaged in transit
+O000833,P0069,Late delivery
+O003229,P0024,Not as described
+O002205,P0061,Defective item
+O000869,P0038,Not as described
+O004928,P0046,Defective item
+O004986,P0010,Changed mind
+O003287,P0029,Changed mind
+O004153,P0002,Not as described
+O001250,P0015,Wrong size
+O004060,P0004,Defective item
+O002845,P0022,Damaged in transit
+O000213,P0027,Wrong size
+O004781,P0064,Changed mind
+O003652,P0029,Not as described
+O002987,P0026,Changed mind
+O002477,P0057,Damaged in transit
+O001611,P0074,Damaged in transit
+O000563,P0066,Defective item
+O001875,P0060,Wrong size
+O001467,P0006,Late delivery
+O001873,P0038,Damaged in transit
+O001246,P0041,Changed mind
+O001253,P0008,Changed mind
+O000247,P0044,Wrong size
+O003450,P0039,Not as described
+O000336,P0031,Wrong size
+O001998,P0020,Wrong size
+O001505,P0081,Wrong size
+O000554,P0068,Damaged in transit
+O000326,P0069,Changed mind
+O003156,P0004,Not as described
+O003168,P0066,Not as described
+O001163,P0045,Late delivery
+O001141,P0044,Damaged in transit
+O000986,P0024,Damaged in transit
+O003935,P0038,Changed mind
+O003232,P0079,Wrong size
+O001755,P0014,Damaged in transit
+O004337,P0015,Late delivery
+O004197,P0063,Wrong size
+O002340,P0035,Late delivery
+O003533,P0075,Wrong size
+O003973,P0077,Late delivery
+O001335,P0047,Wrong size
+O002800,P0012,Changed mind
+O003388,P0056,Damaged in transit
+O002037,P0058,Defective item
+O001128,P0054,Changed mind
+O003792,P0059,Changed mind
+O002783,P0039,Wrong size
+O004553,P0047,Damaged in transit
+O000572,P0060,Not as described
+O003385,P0076,Damaged in transit
+O002748,P0057,Not as described
+O003273,P0073,Changed mind
+O003718,P0086,Damaged in transit
+O003121,P0029,Damaged in transit
+O004833,P0001,Damaged in transit
+O003500,P0046,Wrong size
+O003610,P0060,Damaged in transit
+O000406,P0037,Late delivery
+O000823,P0074,Damaged in transit
+O004770,P0016,Not as described
+O000447,P0038,Defective item
+O001433,P0076,Damaged in transit
+O004942,P0025,Late delivery
+O002452,P0064,Wrong size
+O001194,P0038,Not as described
+O004570,P0046,Not as described
+O001038,P0048,Defective item
+O001441,P0067,Not as described
+O003713,P0086,Late delivery
+O001542,P0059,Damaged in transit
+O002554,P0049,Changed mind
+O004825,P0036,Wrong size
+O001020,P0007,Wrong size
+O005000,P0067,Not as described
+O003226,P0041,Not as described
+O003438,P0028,Not as described
+O002364,P0028,Not as described
+O000319,P0084,Late delivery
+O004693,P0051,Late delivery
+O004909,P0067,Late delivery
+O003664,P0084,Defective item
+O004804,P0083,Not as described
+O004442,P0084,Changed mind
+O001669,P0081,Changed mind
+O001298,P0047,Defective item
+O001829,P0012,Late delivery
+O004652,P0032,Damaged in transit
+O003861,P0021,Changed mind
+O004282,P0066,Defective item
+O002795,P0017,Damaged in transit
+O003854,P0015,Changed mind
+O001725,P0054,Defective item
+O002856,P0038,Defective item
+O000260,P0062,Wrong size
+O004370,P0053,Not as described
+O000761,P0058,Defective item
+O001170,P0018,Late delivery
+O002908,P0004,Not as described
+O000731,P0050,Late delivery
+O002774,P0010,Changed mind
+O002568,P0067,Damaged in transit
+O002278,P0003,Damaged in transit
+O002175,P0006,Wrong size
+O000904,P0037,Damaged in transit
+O003237,P0007,Not as described
+O004118,P0030,Late delivery
+O001702,P0021,Damaged in transit
+O001362,P0060,Defective item
+O004873,P0041,Damaged in transit
+O004666,P0069,Defective item
+O003252,P0048,Late delivery
+O000393,P0007,Not as described
+O000918,P0062,Not as described
+O000840,P0015,Wrong size
+O002072,P0082,Late delivery
+O002675,P0046,Not as described
+O000546,P0032,Wrong size
+O002706,P0039,Changed mind
+O004303,P0061,Late delivery
+O000261,P0055,Not as described
+O002184,P0060,Not as described
+O003293,P0057,Late delivery
+O002669,P0014,Not as described
+O004671,P0070,Damaged in transit
+O000355,P0030,Not as described
+O001027,P0055,Changed mind
+O004293,P0009,Wrong size
+O002975,P0021,Wrong size
+O004729,P0052,Damaged in transit

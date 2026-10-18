@@ -1,0 +1,85 @@
+// ============================================================================
+// DAX measures for the E-commerce Sales & Customer Analytics Power BI model
+// Paste into Power BI: Modeling tab -> New measure (one per block below).
+// Assumes the star schema in powerbi/data_model.md; all data is synthetic.
+// ============================================================================
+
+// ---- Sales ----
+Total Revenue =
+SUMX (
+    'order_items',
+    'order_items'[quantity] * 'order_items'[unit_price] * ( 1 - 'order_items'[discount] )
+)
+
+Total Orders =
+DISTINCTCOUNT ( 'orders'[order_id] )
+
+Avg Order Value =
+DIVIDE ( [Total Revenue], [Total Orders] )
+
+Total Units Sold =
+SUM ( 'order_items'[quantity] )
+
+// ---- Time intelligence (requires a Date table marked as date table) ----
+MoM Revenue Growth % =
+VAR _prev =
+    CALCULATE ( [Total Revenue], PREVIOUSMONTH ( 'Date'[Date] ) )
+RETURN
+    DIVIDE ( [Total Revenue] - _prev, _prev )
+
+YTD Revenue =
+TOTALYTD ( [Total Revenue], 'Date'[Date] )
+
+Revenue Same Month Last Year =
+CALCULATE ( [Total Revenue], SAMEPERIODLASTYEAR ( 'Date'[Date] ) )
+
+YoY Revenue Growth % =
+DIVIDE (
+    [Total Revenue] - [Revenue Same Month Last Year],
+    [Revenue Same Month Last Year]
+)
+
+// ---- Customers ----
+Total Customers =
+DISTINCTCOUNT ( 'customers'[customer_id] )
+
+New Customers =
+VAR _first =
+    ADDCOLUMNS (
+        VALUES ( 'customers'[customer_id] ),
+        "@first", CALCULATE ( MIN ( 'orders'[order_date] ) )
+    )
+RETURN
+    COUNTROWS ( FILTER ( _first, [@first] IN VALUES ( 'Date'[Date] ) ) )
+
+Avg Customer Lifetime Value =
+AVERAGEX (
+    VALUES ( 'customers'[customer_id] ),
+    CALCULATE ( [Total Revenue] )
+)
+
+// ---- Returns & quality ----
+Return Rate % =
+VAR _returned =
+    DISTINCTCOUNT ( 'returns'[order_id] )
+VAR _delivered =
+    CALCULATE (
+        DISTINCTCOUNT ( 'orders'[order_id] ),
+        'orders'[status] = "Delivered"
+    )
+RETURN
+    DIVIDE ( _returned, _delivered )
+
+// ---- Profit (uses product cost) ----
+Total Profit =
+SUMX (
+    'order_items',
+    'order_items'[quantity]
+        * (
+            'order_items'[unit_price] * ( 1 - 'order_items'[discount] )
+                - RELATED ( 'products'[cost] )
+        )
+)
+
+Profit Margin % =
+DIVIDE ( [Total Profit], [Total Revenue] )

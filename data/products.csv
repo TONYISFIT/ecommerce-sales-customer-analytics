@@ -1,0 +1,87 @@
+product_id,name,category,price,cost
+P0001,Wireless Headphones,Electronics,455.74,339.88
+P0002,Smartwatch,Electronics,6245.08,3944.9
+P0003,Bluetooth Speaker,Electronics,6200.15,3899.33
+P0004,USB-C Charger,Electronics,2461.94,1127.14
+P0005,Laptop Stand,Electronics,977.86,668.81
+P0006,Mechanical Keyboard,Electronics,1513.05,1064.95
+P0007,Webcam HD,Electronics,4792.88,3090.79
+P0008,Power Bank 20000mAh,Electronics,2001.97,1133.59
+P0009,Noise-Cancelling Earbuds,Electronics,4842.7,2417.17
+P0010,Smart LED Bulb,Electronics,2416.48,1383.62
+P0011,Tablet 10-inch,Electronics,9693.39,7053.21
+P0012,Portable SSD 1TB,Electronics,9510.94,4914.93
+P0013,Gaming Mouse,Electronics,6778.12,3462.6
+P0014,USB Hub,Electronics,2203.71,1108.74
+P0015,Monitor Light Bar,Electronics,9555.05,5558.99
+P0016,Phone Gimbal,Electronics,6246.18,4099.74
+P0017,Cotton T-Shirt,Fashion,8693.39,6226.87
+P0018,Denim Jeans,Fashion,4389.05,2997.13
+P0019,Running Shoes,Fashion,6156.71,4293.06
+P0020,Hoodie,Fashion,7256.97,4123.74
+P0021,Leather Wallet,Fashion,9402.56,5844.45
+P0022,Sunglasses,Fashion,5453.36,3503.34
+P0023,Backpack,Fashion,7099.3,3276.71
+P0024,Wrist Watch,Fashion,1270.3,745.76
+P0025,Kurta,Fashion,8801.12,6278.14
+P0026,Sneakers,Fashion,2607.07,1593.86
+P0027,Denim Jacket,Fashion,9840.54,4544.12
+P0028,Formal Shirt,Fashion,3995.5,2715.13
+P0029,Sports Shorts,Fashion,9632.4,4883.19
+P0030,Handbag,Fashion,4506.63,3223.68
+P0031,Leather Belt,Fashion,7781.03,4168.88
+P0032,Socks (Pack of 5),Fashion,1830.57,985.44
+P0033,Non-stick Cookware Set,Home & Kitchen,9205.52,6047.9
+P0034,Air Fryer,Home & Kitchen,9055.02,5334.07
+P0035,Bedsheet Set,Home & Kitchen,6530.79,3116.05
+P0036,Table Lamp,Home & Kitchen,5105.45,2572.8
+P0037,Storage Organizer,Home & Kitchen,5936.39,4264.1
+P0038,Coffee Maker,Home & Kitchen,5553.79,3154.11
+P0039,Wall Clock,Home & Kitchen,3368.92,1541.19
+P0040,Curtain Set,Home & Kitchen,4645.07,3339.74
+P0041,Mixer Grinder,Home & Kitchen,8977.79,6417.01
+P0042,Dinner Set,Home & Kitchen,1082.76,592.51
+P0043,Vacuum Cleaner,Home & Kitchen,6555.05,4348.89
+P0044,Electric Kettle,Home & Kitchen,1806.14,1210.08
+P0045,Throw Pillows,Home & Kitchen,1092.67,723.2
+P0046,Laundry Basket,Home & Kitchen,6412.91,3049.93
+P0047,Knife Set,Home & Kitchen,7130.34,4763.51
+P0048,Bathroom Organizer,Home & Kitchen,9755.88,6181.54
+P0049,Face Wash,Beauty,1766.02,1086.29
+P0050,Moisturizer,Beauty,629.28,315.44
+P0051,Sunscreen SPF50,Beauty,3483.89,2478.41
+P0052,Hair Serum,Beauty,8653.19,4314.8
+P0053,Lipstick Set,Beauty,1616.15,1100.19
+P0054,Perfume,Beauty,701.84,380.69
+P0055,Face Serum,Beauty,7354.59,5429.82
+P0056,Body Lotion,Beauty,3029.05,1527.27
+P0057,Hair Dryer,Beauty,9004.71,6646.65
+P0058,Makeup Brush Set,Beauty,233.62,158.77
+P0059,Nail Polish Set,Beauty,318.64,190.96
+P0060,Face Mask Pack,Beauty,5085.69,3520.5
+P0061,Shaving Kit,Beauty,6157.24,3682.28
+P0062,Toner,Beauty,2324.36,1505.82
+P0063,Yoga Mat,Sports,4645.64,2706.38
+P0064,Dumbbell Set,Sports,6090.92,2752.92
+P0065,Cricket Bat,Sports,8844.25,4717.82
+P0066,Football,Sports,6359.63,4426.53
+P0067,Badminton Racket,Sports,2233.85,1129.1
+P0068,Gym Gloves,Sports,738.63,409.72
+P0069,Skipping Rope,Sports,1623.67,746.45
+P0070,Water Bottle,Sports,5864.31,3700.3
+P0071,Resistance Bands,Sports,3443.89,1640.36
+P0072,Tennis Racket,Sports,1266.1,947.2
+P0073,Cycling Gloves,Sports,1780.09,952.91
+P0074,Swimming Goggles,Sports,6676.06,4405.89
+P0075,Camping Tent,Sports,5807.37,3592.75
+P0076,Trekking Backpack,Sports,9668.67,6524.42
+P0077,Bestseller Fiction,Books,3728.85,1718.08
+P0078,Data Science Handbook,Books,7730.42,4227.35
+P0079,Cookbook,Books,8994.79,6261.09
+P0080,Children's Storybook,Books,7631.73,5365.05
+P0081,Biography,Books,835.27,493.85
+P0082,Self-Help Guide,Books,1394.83,987.29
+P0083,Mystery Thriller,Books,3425.24,1966.52
+P0084,History of India,Books,2255.48,1156.42
+P0085,Poetry Collection,Books,769.21,477.99
+P0086,Business Strategy,Books,9796.63,5963.05
